@@ -1,0 +1,15 @@
+D:\Давид обучение\9.08.2022\Solution\MinerTask\bin\Debug\net6.0\MinerTask.exe
+D:\Давид обучение\9.08.2022\Solution\MinerTask\bin\Debug\net6.0\MinerTask.deps.json
+D:\Давид обучение\9.08.2022\Solution\MinerTask\bin\Debug\net6.0\MinerTask.runtimeconfig.json
+D:\Давид обучение\9.08.2022\Solution\MinerTask\bin\Debug\net6.0\MinerTask.dll
+D:\Давид обучение\9.08.2022\Solution\MinerTask\bin\Debug\net6.0\MinerTask.pdb
+D:\Давид обучение\9.08.2022\Solution\MinerTask\obj\Debug\net6.0\MinerTask.csproj.AssemblyReference.cache
+D:\Давид обучение\9.08.2022\Solution\MinerTask\obj\Debug\net6.0\MinerTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\9.08.2022\Solution\MinerTask\obj\Debug\net6.0\MinerTask.AssemblyInfoInputs.cache
+D:\Давид обучение\9.08.2022\Solution\MinerTask\obj\Debug\net6.0\MinerTask.AssemblyInfo.cs
+D:\Давид обучение\9.08.2022\Solution\MinerTask\obj\Debug\net6.0\MinerTask.csproj.CoreCompileInputs.cache
+D:\Давид обучение\9.08.2022\Solution\MinerTask\obj\Debug\net6.0\MinerTask.dll
+D:\Давид обучение\9.08.2022\Solution\MinerTask\obj\Debug\net6.0\refint\MinerTask.dll
+D:\Давид обучение\9.08.2022\Solution\MinerTask\obj\Debug\net6.0\MinerTask.pdb
+D:\Давид обучение\9.08.2022\Solution\MinerTask\obj\Debug\net6.0\MinerTask.genruntimeconfig.cache
+D:\Давид обучение\9.08.2022\Solution\MinerTask\obj\Debug\net6.0\ref\MinerTask.dll

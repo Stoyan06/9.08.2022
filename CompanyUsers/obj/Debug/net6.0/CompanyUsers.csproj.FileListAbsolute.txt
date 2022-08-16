@@ -1,0 +1,15 @@
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\bin\Debug\net6.0\CompanyUsers.exe
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\bin\Debug\net6.0\CompanyUsers.deps.json
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\bin\Debug\net6.0\CompanyUsers.runtimeconfig.json
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\bin\Debug\net6.0\CompanyUsers.dll
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\bin\Debug\net6.0\CompanyUsers.pdb
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\obj\Debug\net6.0\CompanyUsers.csproj.AssemblyReference.cache
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\obj\Debug\net6.0\CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\obj\Debug\net6.0\CompanyUsers.AssemblyInfoInputs.cache
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\obj\Debug\net6.0\CompanyUsers.AssemblyInfo.cs
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\obj\Debug\net6.0\CompanyUsers.csproj.CoreCompileInputs.cache
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\obj\Debug\net6.0\CompanyUsers.dll
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\obj\Debug\net6.0\refint\CompanyUsers.dll
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\obj\Debug\net6.0\CompanyUsers.pdb
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\obj\Debug\net6.0\CompanyUsers.genruntimeconfig.cache
+D:\Давид обучение\9.08.2022\Solution\CompanyUsers\obj\Debug\net6.0\ref\CompanyUsers.dll

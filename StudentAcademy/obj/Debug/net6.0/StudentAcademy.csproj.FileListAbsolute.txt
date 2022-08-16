@@ -1,0 +1,15 @@
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\bin\Debug\net6.0\StudentAcademy.exe
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\bin\Debug\net6.0\StudentAcademy.deps.json
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\bin\Debug\net6.0\StudentAcademy.runtimeconfig.json
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\bin\Debug\net6.0\StudentAcademy.dll
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\bin\Debug\net6.0\StudentAcademy.pdb
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\obj\Debug\net6.0\StudentAcademy.csproj.AssemblyReference.cache
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\obj\Debug\net6.0\StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\obj\Debug\net6.0\StudentAcademy.AssemblyInfoInputs.cache
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\obj\Debug\net6.0\StudentAcademy.AssemblyInfo.cs
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\obj\Debug\net6.0\StudentAcademy.csproj.CoreCompileInputs.cache
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\obj\Debug\net6.0\StudentAcademy.dll
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\obj\Debug\net6.0\refint\StudentAcademy.dll
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\obj\Debug\net6.0\StudentAcademy.pdb
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\obj\Debug\net6.0\StudentAcademy.genruntimeconfig.cache
+D:\Давид обучение\9.08.2022\Solution\StudentAcademy\obj\Debug\net6.0\ref\StudentAcademy.dll

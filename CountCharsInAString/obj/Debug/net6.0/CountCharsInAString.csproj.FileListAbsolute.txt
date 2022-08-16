@@ -1,0 +1,15 @@
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\bin\Debug\net6.0\CountCharsInAString.exe
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\bin\Debug\net6.0\CountCharsInAString.deps.json
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\bin\Debug\net6.0\CountCharsInAString.runtimeconfig.json
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\bin\Debug\net6.0\CountCharsInAString.dll
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\bin\Debug\net6.0\CountCharsInAString.pdb
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.csproj.AssemblyReference.cache
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.AssemblyInfoInputs.cache
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.AssemblyInfo.cs
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.csproj.CoreCompileInputs.cache
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.dll
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\obj\Debug\net6.0\refint\CountCharsInAString.dll
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.pdb
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.genruntimeconfig.cache
+D:\Давид обучение\9.08.2022\Solution\CountCharsInAString\obj\Debug\net6.0\ref\CountCharsInAString.dll

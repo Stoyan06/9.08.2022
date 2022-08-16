@@ -1,0 +1,15 @@
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\bin\Debug\net6.0\SoftUinParking.exe
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\bin\Debug\net6.0\SoftUinParking.deps.json
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\bin\Debug\net6.0\SoftUinParking.runtimeconfig.json
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\bin\Debug\net6.0\SoftUinParking.dll
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\bin\Debug\net6.0\SoftUinParking.pdb
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\obj\Debug\net6.0\SoftUinParking.csproj.AssemblyReference.cache
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\obj\Debug\net6.0\SoftUinParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\obj\Debug\net6.0\SoftUinParking.AssemblyInfoInputs.cache
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\obj\Debug\net6.0\SoftUinParking.AssemblyInfo.cs
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\obj\Debug\net6.0\SoftUinParking.csproj.CoreCompileInputs.cache
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\obj\Debug\net6.0\SoftUinParking.dll
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\obj\Debug\net6.0\refint\SoftUinParking.dll
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\obj\Debug\net6.0\SoftUinParking.pdb
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\obj\Debug\net6.0\SoftUinParking.genruntimeconfig.cache
+D:\Давид обучение\9.08.2022\Solution\SoftUinParking\obj\Debug\net6.0\ref\SoftUinParking.dll

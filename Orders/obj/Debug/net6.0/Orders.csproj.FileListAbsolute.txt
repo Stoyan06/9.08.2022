@@ -1,0 +1,15 @@
+D:\Давид обучение\9.08.2022\Solution\Orders\bin\Debug\net6.0\Orders.exe
+D:\Давид обучение\9.08.2022\Solution\Orders\bin\Debug\net6.0\Orders.deps.json
+D:\Давид обучение\9.08.2022\Solution\Orders\bin\Debug\net6.0\Orders.runtimeconfig.json
+D:\Давид обучение\9.08.2022\Solution\Orders\bin\Debug\net6.0\Orders.dll
+D:\Давид обучение\9.08.2022\Solution\Orders\bin\Debug\net6.0\Orders.pdb
+D:\Давид обучение\9.08.2022\Solution\Orders\obj\Debug\net6.0\Orders.csproj.AssemblyReference.cache
+D:\Давид обучение\9.08.2022\Solution\Orders\obj\Debug\net6.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\9.08.2022\Solution\Orders\obj\Debug\net6.0\Orders.AssemblyInfoInputs.cache
+D:\Давид обучение\9.08.2022\Solution\Orders\obj\Debug\net6.0\Orders.AssemblyInfo.cs
+D:\Давид обучение\9.08.2022\Solution\Orders\obj\Debug\net6.0\Orders.csproj.CoreCompileInputs.cache
+D:\Давид обучение\9.08.2022\Solution\Orders\obj\Debug\net6.0\Orders.dll
+D:\Давид обучение\9.08.2022\Solution\Orders\obj\Debug\net6.0\refint\Orders.dll
+D:\Давид обучение\9.08.2022\Solution\Orders\obj\Debug\net6.0\Orders.pdb
+D:\Давид обучение\9.08.2022\Solution\Orders\obj\Debug\net6.0\Orders.genruntimeconfig.cache
+D:\Давид обучение\9.08.2022\Solution\Orders\obj\Debug\net6.0\ref\Orders.dll

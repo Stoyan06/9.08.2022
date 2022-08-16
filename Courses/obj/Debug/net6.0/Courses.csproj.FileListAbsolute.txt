@@ -1,0 +1,15 @@
+D:\Давид обучение\9.08.2022\Solution\Courses\bin\Debug\net6.0\Courses.exe
+D:\Давид обучение\9.08.2022\Solution\Courses\bin\Debug\net6.0\Courses.deps.json
+D:\Давид обучение\9.08.2022\Solution\Courses\bin\Debug\net6.0\Courses.runtimeconfig.json
+D:\Давид обучение\9.08.2022\Solution\Courses\bin\Debug\net6.0\Courses.dll
+D:\Давид обучение\9.08.2022\Solution\Courses\bin\Debug\net6.0\Courses.pdb
+D:\Давид обучение\9.08.2022\Solution\Courses\obj\Debug\net6.0\Courses.csproj.AssemblyReference.cache
+D:\Давид обучение\9.08.2022\Solution\Courses\obj\Debug\net6.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\9.08.2022\Solution\Courses\obj\Debug\net6.0\Courses.AssemblyInfoInputs.cache
+D:\Давид обучение\9.08.2022\Solution\Courses\obj\Debug\net6.0\Courses.AssemblyInfo.cs
+D:\Давид обучение\9.08.2022\Solution\Courses\obj\Debug\net6.0\Courses.csproj.CoreCompileInputs.cache
+D:\Давид обучение\9.08.2022\Solution\Courses\obj\Debug\net6.0\Courses.dll
+D:\Давид обучение\9.08.2022\Solution\Courses\obj\Debug\net6.0\refint\Courses.dll
+D:\Давид обучение\9.08.2022\Solution\Courses\obj\Debug\net6.0\Courses.pdb
+D:\Давид обучение\9.08.2022\Solution\Courses\obj\Debug\net6.0\Courses.genruntimeconfig.cache
+D:\Давид обучение\9.08.2022\Solution\Courses\obj\Debug\net6.0\ref\Courses.dll
